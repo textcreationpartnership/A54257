@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Pennyman's instructions to his children which also may be of service unto others, and therefore they are thus published : reade in fear, that you may receive a blessing.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54257</idno>
+            <idno type="STC">Wing P1407</idno>
+            <idno type="STC">ESTC R33364</idno>
+            <idno type="EEBO-CITATION">13282227</idno>
+            <idno type="OCLC">ocm 13282227</idno>
+            <idno type="VID">98765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98765)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Pennyman's instructions to his children which also may be of service unto others, and therefore they are thus published : reade in fear, that you may receive a blessing.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+                  <author>Pennyman, Mary, 1630-1701.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be given by the author, or to be had at Dorman Newman's shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 11-15 by Mary Pennyman.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Education --  17th century.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98765:1"/>
+            <pb facs="tcp:98765:1" rendition="simple:additions"/>
+            <p>John Pennyman's INSTRUCTIONS TO HIS CHILDREN.</p>
+            <p>Which alſo may be of ſervice unto o<g ref="char:EOLhyphen"/>thers, and therefore they are thus Publiſhed.</p>
+            <q>Reade in Fear, that you may receive a Bleſſing.</q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be given by the Author, or to be had at <hi>Dorman Newman's</hi> Shop, Bookſeller, at the King's Arms in the <hi>Poultry,</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="didactic_tract">
+            <pb facs="tcp:98765:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:98765:2"/>
+            <opener>
+               <salute>
+                  <hi>DEAR CHILDREN,</hi> Hearken diligently to the Counſel and Ad<g ref="char:EOLhyphen"/>vice of your Parents, for they watch over you for your good.</salute>
+            </opener>
+            <p>IN the <hi>Firſt</hi> place, let the fear of the LORD, who is the ſearcher of your hearts, be alwayes in your minds, that in awe of Him, you may for ever ſtand; not daring to bring the leaſt Reproach upon His holy Name, by any Miſcarriages of yours; ſo ſhall you be CHILDREN to His praiſe, and a comfort and bleſſing to your Parents.</p>
+            <p>
+               <hi>Secondly,</hi> See that none of you render evil for evil unto any one; but do you ever fol<g ref="char:EOLhyphen"/>low that which is good, both amongſt your ſelves, and towards all men.</p>
+            <p>
+               <hi>Thirdly,</hi> Take heed of letting out your minds and affections to viſible things; for they periſh in the uſing, and bring trouble, and ſorrow, to all whoſe hearts are ſet thereon; but let your minds always be retired inwards, that you may wait to feel that which is not of this world, nor eſteemed by it; but only eſteemed by thoſe who know the vertue and excellency of it, and who have been willing to part with all to pur<g ref="char:EOLhyphen"/>chaſe it; it is the PEARL of greateſt price;
+<pb facs="tcp:98765:3" rendition="simple:additions"/>
+               <pb n="3" facs="tcp:98765:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:98765:4"/>happy are they that have found, or that yet ſhall find it.</p>
+            <p>
+               <hi>Fourthly<g ref="char:punc">▪</g>
+               </hi> Take heed of entring into many words, when you are bid to do any buſineſs, either by your Parents, Maſters, or other Supe<g ref="char:EOLhyphen"/>riours<g ref="char:punc">▪</g> but with all readineſs of mind, ſee you obey all their lawful Commands with diligence and chearfulneſs.</p>
+            <p>
+               <hi>Fifthly,</hi> Beware of mentioning the Name of the LORD in any caſe but with fear and re<g ref="char:EOLhyphen"/>verence; for His Name is Hallowed by them that fear Him, but taken in vain by thoſe that fear Him not. And though they ſeem to Praiſe or Pray unto Him, yet ſuch Services without His fear are an <hi>Abomination:</hi> wherefore take heed you be not deceived by thoſe who are only in the good Words and fair Speeches; but let your minds be kept ſingle to the LORD, and He will ſhew you who they are that draw nigh to him with their lips, when their hearts are far from Him, and from ſuch you are to turn away.</p>
+            <p>
+               <hi>Sixthly,</hi> Let your words be few; and be al<g ref="char:EOLhyphen"/>wayes more ready to hear than ſpeak, eſpecial<g ref="char:EOLhyphen"/>ly when 'tis your place to ſpeak, be ſure it be in Mildneſs, Love and Gentleneſs; leſt through your provocation you cauſe others to ſin, and then you will not be guiltleſs, for their ſin will be charged upon you: wherefore let this be al<g ref="char:EOLhyphen"/>ways
+<pb n="5" facs="tcp:98765:4"/>ways in your remembrance, and for ever ob<g ref="char:EOLhyphen"/>ſerv'd by you (as it hath been the practice and experience of your Parents) to give mild and ſoft anſwers; for they do often turn away wrath.</p>
+            <p>
+               <hi>Seventhly,</hi> Whatever you ſee Vertuous in any, be ſure to follow that; and what you ſee amiſs others, diligently ſearch your own hearts, leſt your ſelves be found guilty thereof; for it's an eaſie matter to ſee and find fault with another (moſt can do that) but few love to ex<g ref="char:EOLhyphen"/>amine themſelves: be you (my dear CHIL<g ref="char:EOLhyphen"/>DREN) of that number, leſt you periſh with the multitude; for the way is broad that leads to deſtruction, and many walk therein: There<g ref="char:EOLhyphen"/>fore whilſt you are young ſeek after true <hi>Wiſ<g ref="char:EOLhyphen"/>dom,</hi> and it will guide and lead you in that nar<g ref="char:EOLhyphen"/>row way, which all the holy Men walked in, and in which all muſt walk, before they can en<g ref="char:EOLhyphen"/>ter into <hi>Eternal Reſt.</hi>
+            </p>
+            <p>
+               <hi>Eighthly,</hi> Beware of reading fooliſh and vain Books, which tend only to the corrupting of Youth, and diſhonoring the LORD; Wherefore heed you only thoſe that tend to Holineſs and Vertue.</p>
+            <p>
+               <hi>Ninthly,</hi> Conſider how the LORD hath bleſſed and proſpered your Parents; not with<g ref="char:EOLhyphen"/>ſtanding the fury and rage of our enemies, who have accounted us as the greateſt tranſgreſſors, and judged us as the vileſt of ſinners; and all
+<pb n="6" facs="tcp:98765:5"/>this for no other cauſe but only for the diſ<g ref="char:EOLhyphen"/>charge of our Conſciences in the matters of our GOD.</p>
+            <p>
+               <hi>Tenthly,</hi> I warn you, as I did at the firſt, ſo I do again charge you, that you walk in fear and in humility all the dayes of your being upon the Earth; then ſhall you know that the LORD hath not only bleſſed and proſper'd your Parents, but will alſo bleſs and proſper you: but if you depart from his fear, and caſt theſe my inſtructions behind your backs; then know, that you ſhall periſh in your own ini<g ref="char:EOLhyphen"/>quities, and I ſhall (thus far) be clear in my conſcience concerning you.</p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+         <div type="didactic_tract">
+            <opener>
+               <salute>DEAR CHILDREN,</salute> Since my writing the former Inſtructions, theſe following came into my mind to impart unto you.</opener>
+            <p n="1">1. BEware of a lying, flattering, deceitful tongue; alſo beware of Pride and high-mindedneſs, and an exalted Spirit; for ſuch the righteous GOD will judge.</p>
+            <p n="2">2. But be you adorn'd with Faithfulneſs, Meekneſs and Patience; and let your behavi<g ref="char:EOLhyphen"/>our be modeſt, courteous and gentle towards all: and what-ever you would have others do unto you, be ſure you do that unto them; and
+<pb n="7" facs="tcp:98765:5"/>heed not ſo much theirs, as your own Duties.</p>
+            <p n="3">3. Buſie not your minds with others concerns; but be you careful and diligent in the diſcharge of your own; and then you need not be trou<g ref="char:EOLhyphen"/>bled what reproach you bear for them.</p>
+            <p n="4">4. Bear patiently Afflictions, for they are good for you; therefore haſten not to be deli<g ref="char:EOLhyphen"/>ver'd from them; but in the retiredneſs of your minds conſider the cauſe, and being better'd thereby, bleſs the LORD for His Mercies; <hi>for whom He loves, He chaſtiſes.</hi>
+            </p>
+            <p n="5">5. Be careful with whom you aſſociate; and chuſe none to be your intimates; but ſuch who are exemplary in Vertue and Goodneſs: ſo will you avoid much contention and trouble.</p>
+            <p n="6">6. Be ready to do good unto all as opportu<g ref="char:EOLhyphen"/>nity is offer'd; and take heed of waſting any of the good Creatures; for if you be unfaithful in thoſe things that are earthly, who ſhall com<g ref="char:EOLhyphen"/>mit to you thoſe that are heavenly.</p>
+            <p n="7">7. Be not deſirous of Riches or Honour; neither covet that which is anothers; but be content with your preſent conditions, and learn to be as well ſatisfied with want, as abundance; then will you follow the ſteps of your Parents, who have learned contentment what ever be<g ref="char:EOLhyphen"/>fals them.</p>
+            <p n="8">8. Beware of jeering, or ſcoffing at any; neither give abuſive or ſcurrilous language (ei<g ref="char:EOLhyphen"/>ther by Tongue or Pen by) for that will pro<g ref="char:EOLhyphen"/>voke
+<pb n="8" facs="tcp:98765:6"/>the LORD's Anger againſt you, and bring reproach and trouble upon your Parents, who alwayes diſliked, yea abhorred ſuch things.</p>
+            <p n="9">9. Be careful your hearts and minds be kept clean within, and then you need not be adviſed to have your words and actions clean without, for that will unavoidably follow.</p>
+            <p n="10">10. Be not haſty in reproving or correcting of any; but if (you live to be) call'd thereto, let it be in Love and in Wiſdom; and if the offence be great, let it be with ſeverity, yet not in anger, or paſſion; for that will harden them againſt you, and ſo inſtead of bettering them, you will thereby become tranſgreſſors your ſelves.</p>
+            <p n="11">11. Beware that your wills bear not rule in any caſe; but let Truth and Righteouſneſs al<g ref="char:EOLhyphen"/>waies be the ſway of your Judgments; then will you be delivered from that great iniquity which hath ſo deeply corrupted many.</p>
+            <p n="12">12. Be ſure you have regard to the oppreſſed; and take heed how you make advantage of an<g ref="char:EOLhyphen"/>others neceſſity, but rather conſider how you may be helpful unto them; alwaies remembring the Parable of the good <hi>Samaritan, Luk.</hi> 10.33.</p>
+            <p n="13">13. Be cautious for whom you are engaged, or unto whom you are oblig'd; for ſuch things do often prove ſnares: but be more ready to give, then to receive; and yet be ſure to ac<g ref="char:EOLhyphen"/>knowledge the leaſt kindneſs; for ingratitude is hateful.</p>
+            <p n="14">
+               <pb n="9" facs="tcp:98765:6"/>
+14. Be not ſelf-ended; neither ſpend too much upon your own particulars, either in meats, drinks, clothing, or any thing elſe, for that may be a hindrance to the good you ſhould do; but rather be ſparing in that which relates to your ſelves, that you may be in the better capacity to do the good you ought to perform unto others.</p>
+            <p n="15">15. Be not found in many needleſs words; neither contend with ſuch as are in them, for that begets ſtrife, but as they (out of the evil that's in their hearts) bring forth evil things; ſo do you (out of the good that is in yours) bring forth good things.</p>
+            <p n="16">16. Be not graſping after earthly concerns; for they bring trouble and ſorrow; and yet how many through their eager deſires after ſuch things, have choaked that good which once ſtir<g ref="char:EOLhyphen"/>red in them: wherefore take warning, and learn this as a truth experienc'd by me; that a little will ſatisfie a contented mind.</p>
+            <p n="17">17. Be not deſirous after that knowledge, which will lift and puff up your minds; neither be too prying into thoſe Myſteries that are hid; but if the LORD ſhould reveal any thing unto you, be ſure of leave, when and to whom to impart it, not daring, either to add, or dimi<g ref="char:EOLhyphen"/>niſh; for that has been (and is this day) a great and ſore evil.</p>
+            <p n="18">18. Beware of taking up your reſt in any
+<pb n="10" facs="tcp:98765:7"/>outward form of Worſhip, but keep in ſubjecti<g ref="char:EOLhyphen"/>on to the fear of the LORD, who may lead in<g ref="char:EOLhyphen"/>to, or out of ſuch things as He pleaſeth; ſo let him be your guide all your dayes, though you ſhould be hated of all for His ſake; for our eyes have ſeen the ſad fruits and effects of thoſe that have gone about to ſet limits and bounds to His Leadings.</p>
+            <p n="19">19. Beware of imitating other mens words, geſtures, or actions; that relate to religious per<g ref="char:EOLhyphen"/>formances; for <hi>Imitators,</hi> as well as <hi>Image-ma<g ref="char:EOLhyphen"/>kers,</hi> in Worſhip, are an <hi>Abomination;</hi> and yet thouſands do err and have erred herein: Nei<g ref="char:EOLhyphen"/>ther be followers of the <hi>vain Faſhions</hi> &amp; <hi>Cuſtoms</hi> of this World; but whatſoever is <hi>vertuous</hi> and of <hi>good report,</hi> that you may and ought to fol<g ref="char:EOLhyphen"/>low.</p>
+            <p n="20">20. Be not haſty in judging other mens Actions, wherein you have neither command nor certainty; it being not barely the Action, but the Spirit from whence it proceeds, that makes it either accepted, or rejected: therefore take heed leſt you condemn that, which GOD juſtifies: for many are guilty herein, notwith<g ref="char:EOLhyphen"/>ſtanding it's written, <hi>Judge not according to out<g ref="char:EOLhyphen"/>ward appearance;</hi> but if you do, you muſt as well as they, witneſs <hi>Sorrow.</hi>
+            </p>
+            <p n="21">21. But leſt, through many words, your minds ſhould be drawn forth, and (as but too <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo many have been) hurt thereby; it's with
+<pb n="11" facs="tcp:98765:7"/>me to conclude, with thoſe two great and weighty Commandments, <hi>viz.</hi> the firſt is, <hi>You ſhall love the LORD with all your hearts, with all your ſouls, and with all your ſtrength.</hi> And the ſecond is like unto it, namely, <hi>You ſhall love your Neighbours as your ſelves:</hi> for upon theſe two Commandments depend all that can be written, or ſpoken, concerning your Duties ei<g ref="char:EOLhyphen"/>ther to GOD or Men.</p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <opener>Hear me your Father, O Children, and do thereafter, that you may be ſafe.</opener>
+            <p>IF you come to ſerve the LORD, prepare your ſouls for temptation. Set your hearts aright, and conſtantly endure, and make not haſte in time of trouble.</p>
+            <p>Whatſoever is brought upon you, take chear<g ref="char:EOLhyphen"/>fully: For, as Gold is tried in the Fire, ſo are acceptable Men in the Furnace of Adverſity.</p>
+            <p>So incline your ears unto <hi>Wiſdom,</hi> and apply your hearts to Underſtanding, and ſeek her as Silver, and ſearch for her as for hid Treaſures: then ſhall you underſtand the Fear of the LORD, and find the Knowledge of GOD.</p>
+            <p>Happy is the man that findeth <hi>Wiſdom,</hi> and the man that getteth Underſtanding: But where is Wiſdom to be found? and where is
+<pb n="12" facs="tcp:98765:8"/>the place of Underſtanding? The Fear of the LORD, that is Wiſdom; and to depart from evil, that is Underſtanding.</p>
+            <p>
+               <hi>Wiſdom</hi> exalteth her Children, and layeth hold of them that ſeek her; they that love her, love life, and they that ſeek her early, ſhall be filled with Joy; and whereſoever ſhe entereth, the LORD will bleſs; and if you commit your ſelves unto her, you ſhall inherit her.</p>
+            <p>But at the firſt, ſhe will walk with you by crooked wayes, and bring fear and dread upon, you, and torment you with her diſcipline, until ſhe can truſt your Souls, and try you by her Laws.</p>
+            <p>Then will ſhe return the ſtreight way unto you, and comfort you, and ſhew you of her ſe<g ref="char:EOLhyphen"/>crets.</p>
+            <p>But if you go wrong, ſhe will forſake you, and give you over to your own ruine.</p>
+            <p>And when they caſt up the accounts of their Sins, they ſhall come with fear: and their own iniquities ſhall convince them to their face. Then ſhall the righteous man ſtand in great boldneſs, before the face of ſuch as afflicted him, and made no account of his labours. when they ſee it, they ſhall be troubled with terrible fear, and ſhall be amazed at the ſtrange<g ref="char:EOLhyphen"/>neſs of his Salvation, ſo far beyond all that
+<pb n="13" facs="tcp:98765:8"/>they looked for. And they repenting and groaning for anguiſh of Spirit, ſhall ſay within themſelves, This was he whom we had ſome<g ref="char:EOLhyphen"/>time in deriſion and a proverb of reproach. <hi>We fools counted his life madneſs,</hi> and his end to be without honour. How is he numbred among the Children of GOD, and his lot among the Saints?</p>
+            <p>MY Dear Children, ſuffer not your minds to wander abroad, but heed your Fa<g ref="char:EOLhyphen"/>thers Counſel that it may be well with you, when our dayes are finiſhed on earth, and we taken from you, or you from us; therefore ever follow that which draws your minds after ho<g ref="char:EOLhyphen"/>lineſs, and chuſe that good part, which can never be taken from you; ſo ſhall you excel in all Vertues, and anſwer our greateſt deſires for you.</p>
+            <p>The riches and glory of this world I never ſought for you, nor my ſelf; but with care<g ref="char:EOLhyphen"/>fulneſs have ſought after an inheritance in that <hi>Kingdom</hi> which is not of this World, for that cannot fade away. Often hath my Soul been and is humbled before the LORD, to conſider his manifold Mercies to us; Can it ever be for<g ref="char:EOLhyphen"/>gotten how we were preſerved in the late great <hi>Plague</hi> and <hi>Fire!</hi> and Trials much greater then thoſe have I been carried through ſince; that I
+<pb n="14" facs="tcp:98765:9"/>might be alſo proved in that which came neareſt to me, and ſeemed the hardeſt.</p>
+            <p>Dear Children, I your Mother have tried many; and my love hath been in great ſinceri<g ref="char:EOLhyphen"/>ty to thoſe in whom I found uprightneſs and ſimplicity, even to ſuch was I made willing to give up my ſelf as a Servant, for their hone<g ref="char:EOLhyphen"/>ſties ſake; and with them I walked in meekneſs and fear: but coming to be try'd whether my Soul could cleave to the LORD only, then ſome began to limit my Conſcience to their ap<g ref="char:EOLhyphen"/>prehenſion and ſight; this I durſt not conſent to; but my cry was in ſe<g ref="char:EOLhyphen"/>cret, concerning thoſe,<note place="margin">To bridle the liberty of the Spirit, is the greateſt Tyranny in the world. <hi>Sharoon of Wiſd. p. 244.</hi>
+               </note> that would be as Lords there, <hi>O you cruel Task-maſters, will you not let me go to my Father?</hi> For my heart was fill'd with pantings and longings after the LORD, which conſtrain'd me to yeild obedience to what-ever I believed was His will, who had been to me a mighty Deliverer in many ſtraits.</p>
+            <p>Children, in ſome part you have been wit<g ref="char:EOLhyphen"/>neſſes how the love of my neareſt friends (as well as others) have been turned into evil ſur<g ref="char:EOLhyphen"/>miſings againſt me; and why was it? but be<g ref="char:EOLhyphen"/>cauſe I could not part with my integrity; but rather than ſo, gave cauſe to thoſe, who judged by outward appearance, to take offence againſt
+<pb n="15" facs="tcp:98765:9"/>me; but in all theſe things I appeal to Him who hath known the ſecrets of my heart, and hath ſeen the true tenderneſs I have had to<g ref="char:EOLhyphen"/>wards thoſe, who at the ſame time have writ and ſpoke bitter things againſt me. Whom have I wronged, or defrauded? or againſt whom hath my tongue dared to ſpeak lies? Not any that I know of. So Children, truſt you in the LORD only, and not in mortal men; for they will fail you when the <hi>Croſs</hi> comes to be taken up to your and their wills: and though this is ſet down for your warning; yet aſſuredly my love is to them all, and can ſay to ſuch, as <hi>Joſeph</hi> did to his Brethren; <hi>be not grieved with your ſelves though you ſold me hither,</hi> (even under great reproach) for we were to be ſeparated.</p>
+            <p>Dear Children, gather your minds inwards; fear the LORD all your dayes, and you ſhall re<g ref="char:EOLhyphen"/>ceive His reward; which hath been great to your dear Mother,</p>
+            <closer>
+               <signed>Mary Pennyman.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <p>This is my Commandment, That ye love one another,</p>
+                  <bibl>John 15.12.</bibl>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>Strive for the Truth unto Death, and de<g ref="char:EOLhyphen"/>fend Juſtice for your Lives: and the LORD GOD will fight for you.</q>
+            </epigraph>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
